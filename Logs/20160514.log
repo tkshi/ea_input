@@ -1,0 +1,23 @@
+0	14:03:47.264	Expert gui USDCHF,H1: loaded successfully
+0	14:14:02.062	Expert gui USDCHF,H1: removed
+0	14:15:14.039	Expert gui USDCHF,H1: loaded successfully
+0	14:15:23.467	gui USDCHF,H1 inputs: MA1_timeframe=8; MA1_period=10; MA1_ma_shift=0; 
+0	14:15:23.473	gui USDCHF,H1: initialized
+0	14:19:22.603	gui USDCHF,H1: uninit reason 4
+0	14:19:22.643	Expert gui USDCHF,H1: removed
+0	14:19:23.813	Expert gui USDCHF,H1: loaded successfully
+0	14:19:26.427	gui USDCHF,H1 inputs: MA1_timeframe=5; MA1_period=10; MA1_ma_shift=0; 
+0	14:19:26.434	gui USDCHF,H1: initialized
+0	14:35:18.484	gui USDCHF,H1: uninit reason 4
+0	14:35:18.576	Expert gui USDCHF,H1: removed
+0	15:16:47.164	Expert gui USDCHF,H1: loaded successfully
+0	15:16:58.537	Expert gui USDCHF,H1: removed
+0	15:17:15.731	Expert gui USDCHF,H1: loaded successfully
+0	15:17:20.914	Expert gui USDCHF,H1: removed
+0	15:41:02.914	Compiling 'gui'
+0	15:41:05.015	Expert gui2 USDCHF,H1: loaded successfully
+0	16:00:56.905	Expert gui2 USDCHF,H1: removed
+0	16:01:23.721	Expert gui2 USDCHF,H1: loaded successfully
+0	16:14:28.248	Expert gui2 USDCHF,H1: removed
+0	16:14:30.465	Expert gui2 USDCHF,H1: loaded successfully
+0	16:14:50.067	Expert gui2 USDCHF,H1: removed
